@@ -23,9 +23,3 @@ Du kannst mich gerne über LinkedIn kontaktieren.
 ---
 
 Thank you for visiting my profile! / Danke, dass du mein Profil besucht hast!
-```
-
-<!---
-strauch-itsec/strauch-itsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
